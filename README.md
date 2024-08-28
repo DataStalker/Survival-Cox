@@ -15,7 +15,7 @@ The dataset, `haberman.csv`, includes data from a study conducted between 1958 a
 
 ### Files
 - `haberman.csv`: The dataset used for survival analysis.
-- `cox-survival.Rmd`: R Markdown file for performing survival analysis.
+- `cox-survival.md`: R Markdown file for performing survival analysis.
 
 ### Usability
 - **License:** Unknown
